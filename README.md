@@ -57,6 +57,15 @@ Este módulo es muy importante ya que este nos permitira  hacer una conexión co
 ```bash
 pip install djangorestFramework
 ```
+* **Instalación para permitir conexión con diferentes dominios**
+
+Un problema al momento de conectarse con angular va a ser el dominio ya que se tendran dominios diferentes a la hora de ejecutar los frameworks, para eso Django necesita permitir la conexión a esos dominios, para ello utilizamos la siguiente linea de comando para instalar el paquete que nos permitira cumplir ese objetivo:
+
+```bash
+pip install django-cors-headers
+```
+Con ese paquete instalado no tendremos problema 
+
 * **Cración de superusuario y correr el servidor**
 
 Por ultimo debemos crear un superusuario para entrar a la administración. Para ello ejecutamos las siguientes lineas.
