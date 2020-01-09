@@ -10,7 +10,7 @@ Django es un framework de aplicaciones web gratuito y de código abierto (open s
 ## Requisitos
 * Tener instalado la versión del python 3.7
 * Tener instalado git
-* Instalar pycharm para correr el programa sin problema **(indispensable)**
+* Instalar pycharm: https://www.jetbrains.com/es-es/pycharm/download/#section=windows **[Indispensable este IDE, sera de mucha ayuda]**
 ---
 
 ## Instalación de Django
