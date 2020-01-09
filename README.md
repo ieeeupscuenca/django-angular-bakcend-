@@ -79,3 +79,4 @@ Realizado estos dos ultimos comando podremos acceder a nuestro sitio web mediant
 * pagina rest_direccion: http://127.0.0.1:8000/direccion
 * pagina administrador:  http://127.0.0.1:8000/admin
  
+**NOTA: Esto tenemos que correr simultaneamente con el Frontend Angular**
